@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ezeiru-Elias Emma</h1>
 <h3 align="center">A passionate full-stack developer from Nigeria</h3>
 
-- 🔭 I’m currently working on **my python project**
+- 🔭 I’m currently working on **my python project** 
 
 - 🌱 I’m currently learning **javascript, and enrolled in ALX**
 
