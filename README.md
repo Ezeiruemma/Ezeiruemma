@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lilfrost_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lilfrost_" height="30" width="40" /></a>
+<a href="https://twitter.com/lilfrost_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ezeiruemma" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ezeiruemma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ezeiruemma" height="30" width="40" /></a>
-<a href="https://instagram.com/lil.frost__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lil.frost__" height="30" width="40" /></a>
+<a href="https://instagram.com/sa.int__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lil.frost__" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ezeiruemma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ezeiruemma" height="30" width="40" /></a>
 </p>
 
