@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ezeiru-Elias Emma</h1> 
 <h3 align="center">A passionate full-stack developer from Nigeria</h3>
 
-- 🔭 I’m currently working on **my python project** 
+- 🔭 I’m currently working on **my start up** 
 
 - 🌱 I’m currently learning **javascript, and enrolled in ALX**
 
-- 👯 I’m looking to collaborate on **python projects**
+- 👯 I’m looking to collaborate on **backend projects**
 
-- 💬 Ask me about **Python, my journey**
+- 💬 Ask me about **my goals, my journey**
 
 - 📫 How to reach me **ezeiruemma5t@gmail.com**
 
