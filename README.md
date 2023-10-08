@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my start up** 
 
-- 🌱 I’m currently learning **javascript, and enrolled in ALX**
+- 🌱 I’m currently learning **javascript, and finished ALX**
 
 - 👯 I’m looking to collaborate on **backend projects**
 
